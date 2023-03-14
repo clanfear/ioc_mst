@@ -238,6 +238,8 @@ class: inverse
 
 This is if increasing or decreasing penalties increases or decreases behavior.
 
+
+
 --
 
 * **Absolute Deterrence**
@@ -293,7 +295,7 @@ Subjective usually involves asking people "how bad would it be to be arrested / 
 
 --
 
-* **Celerity** (Swiftness) of the sanction
+* **Celerity** (swiftness) of the sanction
 
    + Length of time between crime and paying the cost
    
@@ -310,6 +312,10 @@ Strong deterrent effects of arrest may be because it occurs more quickly
 .text-center[
 *Evidence is strongest for **certainty***
 ]
+
+???
+
+Evidence suggests being arrested alone is a pretty strong deterrent, while variation in length of incarceration is often quite weak
 
 ---
 # General Deterrence
@@ -328,6 +334,13 @@ Research Approaches
    + Changes in crime rates before/after policy changes
    + Effects of perceived risk and severity
    + Effect of peers being arrested
+
+
+???
+
+Research on general deterrence often looks at policy changes, such as when sentences increase or police strategies change
+
+Another vein of research looks at how perceived threats of punishment change when peers are arrested—people update their perceptions of certainty and severity as a result
 
 ---
 # Specific Deterrence
@@ -349,8 +362,8 @@ If they were punished once, they will realize they don't want that to happen aga
 Research Approaches
 
    + Compare incarcerated then released vs. probationers
-       + But those sent to prison may be more crime prone
-       + Experimental design: Need equivalent treatment and control groups
+       + *But those sent to prison may be more crime prone*
+       + Challenge: Need equivalent treatment and control groups
    + Randomly vary punishment
        + Randomized arrest (e.g. Sherman & Berk 1984)
    + Look at marginal cases—natural experiments
@@ -359,9 +372,11 @@ Research Approaches
 
 ???
 
-Specific deterrence can be hard to research--punishment often does more than just punish.
+Causal effects of specific deterrence are hard to measure--punishment does more than just deter, as incarceration greatly disrupts the life of the offender.
 
-Not really ethical to experimentally vary *real* punishments; can try in experiments
+It typically isn't ethical to experimentally vary *real* punishments either; can try in lab experiments, but these are contrived settings
+
+Common approach is to look at policy changes or differences across judges when cases are randomly assigned
 
 ---
 class: inverse
@@ -395,7 +410,7 @@ Criminological rational choice models recognize variation in gains.
 
 Research like Piliavin et al. finds better support for rational responses to rewards than to formal punishments
 
-This may be due to low certainty
+This may be due to low certainty of sanctions, but high certainty of gains; most people get away with a lot before they're caught!
 
 
 ---
@@ -426,29 +441,29 @@ Becker (1968) introduced rational model of crime
 
 ???
 
-First major economic treatment of crime as rational behavior
-
-Mainly focused on criminal justice policy
+First major economic treatment of crime as rational behavior; Mainly focused on criminal justice policy. Potential offenders are assumed to know exact risks and costs of sanctioning.
 
 --
 
 Short & Strodtbeck's (1964) decision to join a gang fight
 
-   + Subjective probability of harm
-   + Bounded rationality
+   + **Subjective** probability of harm
+   + **Bounded rationality**
    + Status and psychic rewards
 
 ???
 
 Mixed methods work revealing participation in gang fights as rational behavior
 
-Gang leader decides whether or not to join a fight
+Gang leader decides whether or not to join a fight by brandishing a gun
 
-If he decides not to, likely he will likely suffer moderate status loss with gang
+If he decides not to and his friends lost the fight, he will likely suffer moderate status loss with gang
 
-If he does join fight, small chance he will need to shoot someone and end up in jail -- large cost
+If he does join fight, small chance he will need to shoot someone and end up in jail -- a very large cost
 
 Because likelihood of jail is small, he'll probably join fight--it is rational to do so
+
+S & S also used a formal model of the same format, but focused on subjective (maybe inaccurate) risk perceptions, and bounded thinking: In a dangerous situation, available options narrow to a couple choices.
 
 ---
 # Implications
@@ -562,11 +577,19 @@ May make large mistakes in reasoning by applying shortcuts or habitual behaviors
    * Deliberation is exceedingly rare
    * For most, criminal alternatives rarely considered
 
+???
+
+Psychology hits rational choice with a one-two punch: First, most behaviour is habitual and not the result of deliberation. Second, when deliberation occurs, people consider only narrow sets of choices—for most, crime isn't even in the decision set in most situations.
+
 --
 
 * Social psychological critique
 
    * Morals and norms dominate costs and benefits
+
+???
+
+Social psych adds to this by focusing on learned morals and socially-transmitted norms regulate a lot of behaviour. These are factors that lead to criminal alternatives not being considered! There are rational choice perspectives with morals and norms though, such as James Coleman's work in the 80's and 90's.
 
 --
 
@@ -577,14 +600,7 @@ May make large mistakes in reasoning by applying shortcuts or habitual behaviors
 
 ???
 
-The pragmatist critique is that people don't have ultimate beliefs and desires at all
-
-Rather, people respond to problematic situations by considering different sets of actions and imagined outcomes and selecting the first good one
-
-This may be something entirely novel and previously unconsidered; the action chosen doesn't stem from an existing desire
-
-Consider when you get hungry. The solution to your problem is both the food and how you get that food.
-
+The pragmatist critique is that people don't have stable goals or desires at all. Rather, people behave habitually most of the time until it doesn't work, which causes a problem, which is a situationally created problem. Then people solve that problem by considering different sets of actions and imagined outcomes (that is, desired states) and selecting the first good set they think of. Rather than being optimizers, people muddle through.
 
 --
 
@@ -595,6 +611,10 @@ Consider when you get hungry. The solution to your problem is both the food and 
 
 *Consider when the simple rational actor model will break down*
 ]
+
+???
+
+All the points above are true at least to some degree. What is important is thinking about when they actually matter.
 
 ---
 class: inverse
@@ -612,16 +632,26 @@ class: inverse
 # Criminological Theory
 
 * *Rational actor assumptions are everywhere*
-* Situational crime prevention
 * Routine activities theory
+* Situational crime prevention
 * Broken windows
 * Control theory
+
+???
+
+Routine activities is a macro-level theory but is often used with rational choice at the individual level because it is simple and compatible
+
+Situational crim prevention explicitly invokes rational choice, picturing potential offenders as maximimising reward and minimizing risk
+
+Broken windows uses an implicit deterrence model for offenders under the assumption disorder is a signal of low risk of sanctioning
+
+Hirschi and others have noted rational choice is compatible with control theories, such as his version focusing on social bonds. Severing of bonds is a cost.
 
 --
 
 # Legal Sanctions
 
-* "Tough-on-crime" sentencing policies
+* "Tough-on-crime" policies
 
    * Poor evidence for **severity**
 
@@ -630,13 +660,20 @@ class: inverse
    * Speed and red light cameras (certainty)
    * Income-based fines (severity)
 
+???
+
+When politicians say they want to get tough on crime with harder sentences, they either implicitly or explicitly invoke deterrence: crime will go down if penalties go up
+
+Research has found much stronger evidence for incapacitation effects of harsh penalties than deterrence: hard to commit street crime while in prison.
+
+Traffic enforcement is an area with some interesting deterrence-based approaches: cameras can make sanctions nearly certain. Income based penalties have also been suggested as a way to make deterrent effects more similar for poor and rich offenders.
 
 ---
 
 # Policing
 
 .text-center[
-*Deterrence and rational choice principles underlie most police crime control strategies*
+*Deterrence and rational choice principles underlie most crime control strategies*
 ]
 
 --
@@ -645,12 +682,19 @@ class: inverse
 
    + *Direct police resources where gains from deterrence are largest*
 
+???
+
+Like most policing interventions, hot spots mainly targets certainty; but it also assumes rational actors don't displace to new locations due to a lack of alternate opportunities
+
 --
 
-* Problem-oriented policing
+* Focussed deterrence or "pulling levers"
 
-   + *Increase real and perceived sanction risks for specific offenses*
-   + e.g., focussed deterrence or "pulling levers"
+   + *Increase real and perceived sanction risks for specific high-risk offenders*
+
+???
+
+Focused deterrence is like hot spots for *people*. Direct deterrence efforts at people with high payoff. It both increases perceived costs of crime (mainly certainty, but sometimes severity) and aims to increase gains from conforming behaviour through support services.
 
 --
 
@@ -659,6 +703,10 @@ class: inverse
    + *Increase perceived sanction risks in general*
    + e.g., order maintenance policing
 
+???
+
+Disorder policing aims to curb disorder in hopes it also reduces more serious crime; this idea is rooted in broken windows theory, which embeds rational actor assumptions.
+
 --
 
 * Deployment strategies
@@ -666,16 +714,25 @@ class: inverse
    + *Increase sanction risks or uncertainty*
    + e.g., foot patrol, randomized or intensified patrols
 
+???
+
+Many deployment-based policies aim to keep police present or at least nearby; certainty is nearly 100% when they're on site! Others aim to make sanction risks uncertain, as offenders may be deterred when resource shifts mean their past experiences are no longer good indicators of certainty.
+
 ---
 class: inverse
 
 # Wrap-Up
 
-* Deterrence is deeply embedded in justice system
+* Deterrence is deeply embedded in the justice system
 
-* Rational choice 
+   * Focuses on main factors justice system can control
+       * Increasing **certainty** can be very effective
+       * Increasing **severity** is typically inefficient
+   * EBP strategies often focus on real or perceived **certainty**
 
-## Further Reading
+* Rational choice is a simple, broadly applicable theory of behaviour
 
-[Nagin, Solow, & Lum (2015) "Deterrence, criminal opportunities, and police." *Criminology* 53(1)](https://doi.org/10.1111/1745-9125.12057)
+   * **Perceived** cost and benefit are key
+   * Not always realistic—but can be useful approximation
+
 
