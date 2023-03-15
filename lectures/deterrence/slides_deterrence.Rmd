@@ -60,7 +60,7 @@ This means people know best what is good for them, so we should maximize their f
 
 But sometimes the best action for an individual hurts others, infringing on their liberty
 
-To Beccaria, this is the only justified reason to infringe on free choice
+To Beccaria, and other utilitarians, this is the only justified reason to infringe on free choice
 
 
 
@@ -96,14 +96,11 @@ Beccaria (1764) *On Crimes and Punishments*
 
 If people maximize pleasure and minimize pain, we can increase pain of harmful choices
 
-But we do not want to harm more than is needed; we want to do only so much harm as is justified.
+But we do not want to harm more than is needed; we want to do only so much harm as is necessary to prevent social harm.
 
-Beccaria's deterrence was not a criminological theory but a policy position resulting from his horror and disgust over barbaric European legal codes.
+Beccaria's deterrence was not a criminological theory but a policy position resulting from his horror and disgust over barbaric European legal codes and police actions.
 
-
-Focus is on act, not individuals: Change the calculus of acts rather than change values of the person.
-
-A problem with this approach is calculating the right punishment. Even if you can measure it, pleasure from a criminal act might differ for everyone. Jeremy Bentham believed this was all quantifiable--a hedonic calculus. But Bentham was also a bit of a weird guy. His clothed skeleton and wax head are on display at University College, London.
+A problem with this approach is calculating the right punishment. Even if you can measure it, pleasure from a criminal act might differ for everyone. Jeremy Bentham believed this was all quantifiable--a hedonic calculus. But Bentham was also a bit of a weird guy. His clothed skeleton and wax head are on display at University College, London, in accordance with his wishes.
 
 
 
@@ -115,7 +112,13 @@ A problem with this approach is calculating the right punishment. Even if you ca
 
     + No role for structure or context
     + Crime as irrational behaviour resulting from socialization
+    + Focus on resocialization
 
+???
+
+As a discipline, Criminology drifted away from the classical rational actor model; there was no room for effects of structure or context, which they saw to be plainly related to crime.
+
+In the first half of the 1900s, socialization and subcultural theories dominated. These emphasized rehabilitative policy responses to crime.
 
 --
 
@@ -137,9 +140,13 @@ A problem with this approach is calculating the right punishment. Even if you ca
 
 ???
 
-People's perceived rewards are idiosyncratic and taste-based; mainly just know that on average people want *more*, whatever it is
+In the 1970s, rising crime in lead to skepticism over rehabilitative policy
 
-James Q. Wilson's book influential in advocating for both deterrence and incapacitation
+One development out of this was resurgence in interest and support for deterrence and rational choice, but with more realistic model of the actor
+
+In modern rational choice, people's perceived rewards are idiosyncratic and taste-based; we mainly just know that on average people want *more* of it, whatever it is
+
+James Q. Wilson's 1975 book was influential in the US for advocating for deterrence, incapacitation, and generally severe responses to crime; you'll recognize him from Wilson & Kelling's Broken Windows some 7 years later.
 
 ---
 #  Deterrence Doctrine
@@ -161,7 +168,9 @@ Weaker rational actor assumptions than classical school:
 
 ???
 
-If you look at large groups together, on average they behave rationally
+It is still based on a rational actor, but the expected level of rationality is less perfect
+
+If you look at large groups together, on average they behave rationally; individual people make errors of judgment, but collectively they trend toward rationality
 
 ---
 count:false
@@ -186,9 +195,9 @@ Weaker rational actor assumptions than classical school:
 
 ???
 
-People may not act perfectly rationally, but they do respond to changes in incentives
+And even though individuals make errors, on average they do respond to changes in incentives 
 
-If punishment increases, people will commit less crime; if gains increase, more.
+If punishment increases, people will commit less crime; if gains increase, they will commit more crime.
 
 ---
 count:false
@@ -213,6 +222,10 @@ Weaker rational actor assumptions than classical school:
 .text-center[
 *You can reduce crime by increasing the costs*
 ]
+
+???
+
+So the basic principle remains the same as classical criminology: manipulate costs to control crime
 
 ---
 
@@ -301,7 +314,7 @@ Subjective usually involves asking people "how bad would it be to be arrested / 
    
 ???
 
-Most justice systems are pretty slow, so this component is not often used to control crime, and thus not often studied
+Most justice systems are pretty slow, so this component is not often used intentionally to control crime, and thus not often studied
 
 The slowness may actually be a severity component too; people know they'll spend a lot of time even waiting for a hearing or trial
 
@@ -707,17 +720,6 @@ Focused deterrence is like hot spots for *people*. Direct deterrence efforts at 
 
 Disorder policing aims to curb disorder in hopes it also reduces more serious crime; this idea is rooted in broken windows theory, which embeds rational actor assumptions.
 
---
-
-* Deployment strategies
-
-   + *Increase sanction risks or uncertainty*
-   + e.g., foot patrol, randomized or intensified patrols
-
-???
-
-Many deployment-based policies aim to keep police present or at least nearby; certainty is nearly 100% when they're on site! Others aim to make sanction risks uncertain, as offenders may be deterred when resource shifts mean their past experiences are no longer good indicators of certainty.
-
 ---
 class: inverse
 
@@ -725,14 +727,15 @@ class: inverse
 
 * Deterrence is deeply embedded in the justice system
 
+   * Derived from enlightenment principles of justice
    * Focuses on main factors justice system can control
        * Increasing **certainty** can be very effective
        * Increasing **severity** is typically inefficient
-   * EBP strategies often focus on real or perceived **certainty**
 
 * Rational choice is a simple, broadly applicable theory of behaviour
 
    * **Perceived** cost and benefit are key
+   * Rarity of punishment means gains often dominate decisions
    * Not always realistic—but can be useful approximation
 
 
